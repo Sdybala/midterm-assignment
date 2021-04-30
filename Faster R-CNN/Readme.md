@@ -1,6 +1,6 @@
 How to use:
 
-1.install tensorflow, preferably GPU version. 
+1.install tensorflow, preferably GPU version. The python version I use is Python 3.5.
 
 2.Checkout this branch
 
